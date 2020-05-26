@@ -1,2 +1,2 @@
 # Ali-Muttaleb
-Ali Muttaleb Hasan obtained his B.Sc. degree in Computer Science from University of Kufa, Najaf, Iraq in 2011, and Master from University Kebangsaan Malaysia 2016, Computer Science (Artificial intelligence). He was a lecturer in Computer Department, at School of Computer Science and Engineering at School Al-Qadisiyah, Iraq. Currently, he is a PhD candidate in faculty of computer systems and software engineering, University Malaysia Pahang (UMP). His research interest is in the area of Artificial intelligence, natural Language Processing, Pattern Recognition, data mining, text mining, semantic representation approach and feature selection.
+Master
